@@ -54,6 +54,7 @@ Each solution file includes:
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/xwomen1/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/xwomen1/DSA/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/xwomen1/DSA/tree/master/0238-product-of-array-except-self) |
 | [1266-minimum-time-visiting-all-points](https://github.com/xwomen1/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 ## Math
 |  |
@@ -75,4 +76,8 @@ Each solution file includes:
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/xwomen1/DSA/tree/master/0217-contains-duplicate) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/xwomen1/DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
