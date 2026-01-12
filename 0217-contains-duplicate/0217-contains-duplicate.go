@@ -4,8 +4,7 @@ func containsDuplicate(nums []int) bool {
          if seen[v]{
           return true
          }
-         seen[v] = true
-        
+         seen[v] = true  
     }
     return false
 }
