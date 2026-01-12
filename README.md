@@ -55,6 +55,7 @@ Each solution file includes:
 | [0053-maximum-subarray](https://github.com/xwomen1/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/xwomen1/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/xwomen1/DSA/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/xwomen1/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/xwomen1/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/xwomen1/DSA/tree/master/0238-product-of-array-except-self) |
 | [1266-minimum-time-visiting-all-points](https://github.com/xwomen1/DSA/tree/master/1266-minimum-time-visiting-all-points) |
@@ -88,4 +89,8 @@ Each solution file includes:
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/xwomen1/DSA/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/xwomen1/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
