@@ -52,6 +52,7 @@ Each solution file includes:
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/xwomen1/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1266-minimum-time-visiting-all-points](https://github.com/xwomen1/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 ## Math
 |  |
@@ -61,4 +62,8 @@ Each solution file includes:
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/xwomen1/DSA/tree/master/1266-minimum-time-visiting-all-points) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/xwomen1/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
