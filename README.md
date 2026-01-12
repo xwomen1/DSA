@@ -52,6 +52,7 @@ Each solution file includes:
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/xwomen1/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/xwomen1/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/xwomen1/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/xwomen1/DSA/tree/master/0238-product-of-array-except-self) |
@@ -67,6 +68,7 @@ Each solution file includes:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/xwomen1/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/xwomen1/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -80,4 +82,8 @@ Each solution file includes:
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/xwomen1/DSA/tree/master/0238-product-of-array-except-self) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/xwomen1/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
