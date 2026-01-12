@@ -4,11 +4,11 @@ This repository contains my solutions to various data structures and algorithms 
 
 ## 📊 LeetCode Statistics
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/xwomen1?theme=dark&font=Ubuntu&ext=activity" alt="xwomen1's LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/9jDDCCEbAI?theme=dark&font=Ubuntu&ext=activity" alt="9jDDCCEbAI's LeetCode Stats" />
 </p>
 
 <p align="center">
-  <img src="https://leetcode-stats-net.vercel.app/api?username=xwomen1&theme=dark" alt="LeetCode Progress" />
+  <img src="https://leetcode-stats-net.vercel.app/api?username=9jDDCCEbAI&theme=dark" alt="LeetCode Progress" />
 </p>
 
 ## 🛠 Tech Stack
