@@ -26,7 +26,6 @@ func threeSum(nums []int) [][]int {
                 right--
             }
         }
-
     }
     return result
 }
