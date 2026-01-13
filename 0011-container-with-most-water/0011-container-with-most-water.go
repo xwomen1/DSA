@@ -13,7 +13,15 @@ func maxArea(height []int) int {
     }
     if height[left] >height[right]{
         right--
-    }else{left++}
+        if height[right] <= height[right+1]{
+            continue
+        }
+    }else{
+        left++
+        if height[left] <= height[left-1]{
+            continue
+        }
+        }
     
    } 
    return maxW
