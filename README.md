@@ -60,10 +60,12 @@ Each solution file includes:
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/xwomen1/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/xwomen1/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/xwomen1/DSA/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/xwomen1/DSA/tree/master/0268-missing-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/xwomen1/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/xwomen1/DSA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/xwomen1/DSA/tree/master/0371-sum-of-two-integers) |
 | [1266-minimum-time-visiting-all-points](https://github.com/xwomen1/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 ## Geometry
@@ -81,11 +83,13 @@ Each solution file includes:
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/xwomen1/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/xwomen1/DSA/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/xwomen1/DSA/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/xwomen1/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/xwomen1/DSA/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -99,6 +103,7 @@ Each solution file includes:
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/xwomen1/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/xwomen1/DSA/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,6 +117,7 @@ Each solution file includes:
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/xwomen1/DSA/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/xwomen1/DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/xwomen1/DSA/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/xwomen1/DSA/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
