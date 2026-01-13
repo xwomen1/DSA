@@ -64,6 +64,7 @@ Each solution file includes:
 ## Math
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/xwomen1/DSA/tree/master/0371-sum-of-two-integers) |
 | [1266-minimum-time-visiting-all-points](https://github.com/xwomen1/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 ## Geometry
 |  |
@@ -105,4 +106,8 @@ Each solution file includes:
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/xwomen1/DSA/tree/master/0011-container-with-most-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/xwomen1/DSA/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
