@@ -65,6 +65,7 @@ Each solution file includes:
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/xwomen1/DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/xwomen1/DSA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/xwomen1/DSA/tree/master/0371-sum-of-two-integers) |
 | [1266-minimum-time-visiting-all-points](https://github.com/xwomen1/DSA/tree/master/1266-minimum-time-visiting-all-points) |
@@ -76,6 +77,7 @@ Each solution file includes:
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/xwomen1/DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/xwomen1/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/xwomen1/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/xwomen1/DSA/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/xwomen1/DSA/tree/master/0338-counting-bits) |
@@ -122,4 +124,8 @@ Each solution file includes:
 | [0268-missing-number](https://github.com/xwomen1/DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/xwomen1/DSA/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/xwomen1/DSA/tree/master/0371-sum-of-two-integers) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/xwomen1/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
