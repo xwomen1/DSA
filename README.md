@@ -66,6 +66,7 @@ Each solution file includes:
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/xwomen1/DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/xwomen1/DSA/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/xwomen1/DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/xwomen1/DSA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/xwomen1/DSA/tree/master/0371-sum-of-two-integers) |
@@ -85,6 +86,7 @@ Each solution file includes:
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/xwomen1/DSA/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/xwomen1/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/xwomen1/DSA/tree/master/0268-missing-number) |
 ## Sorting
@@ -129,4 +131,8 @@ Each solution file includes:
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/xwomen1/DSA/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/xwomen1/DSA/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
