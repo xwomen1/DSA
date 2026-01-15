@@ -61,6 +61,7 @@ Each solution file includes:
 | [0217-contains-duplicate](https://github.com/xwomen1/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/xwomen1/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/xwomen1/DSA/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/xwomen1/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [1266-minimum-time-visiting-all-points](https://github.com/xwomen1/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 ## Math
 |  |
@@ -82,6 +83,7 @@ Each solution file includes:
 | [0070-climbing-stairs](https://github.com/xwomen1/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/xwomen1/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/xwomen1/DSA/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/xwomen1/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/xwomen1/DSA/tree/master/0338-counting-bits) |
 ## Hash Table
 |  |
@@ -110,6 +112,7 @@ Each solution file includes:
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/xwomen1/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/xwomen1/DSA/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/xwomen1/DSA/tree/master/0300-longest-increasing-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
